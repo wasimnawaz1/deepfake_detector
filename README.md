@@ -111,17 +111,7 @@ pandas>=1.4.3
 
 ---
 
-## ⚠️ Disclaimer
 
-> This application uses a **demonstration model** and is not fully trained for production use.
-> For critical analysis, a robust, fully trained deepfake detection system should be employed.
-
----
-
-## 👨‍🏫 Credits
-
-Project based on the Final Year Project Report from the **Department of Computer Engineering, at the University of Lahore**.
-Supervised by **Dr. M. Wasim Nawaz**.
 
 ---
 
